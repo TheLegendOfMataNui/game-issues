@@ -1,4 +1,4 @@
-<!-- Remember to add the following information: -->
+**Remember to add the following information:**
 
 **Build Version:**
 
